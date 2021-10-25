@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+![image](https://user-images.githubusercontent.com/90902223/138705961-bdc367d3-75cf-4995-970b-86e4a3a121be.png)
 
-You can use the [editor on GitHub](https://github.com/ShwaasA/404/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Why 404?
+<p align ="justify">
+  This project was made for the <a href="https://hackthisfall.tech" target="_blank">HackThisFall 2.0 Hackathon 2021</a>. 404 Our team originally planned to make a solar panel calculator for the "Climate Change and Environment" track. We planned to ask the user for their location, electricity cost, solar panel cost, and solar panel efficiency and fetch solar irradiance information from a few websites and APIs. We then planned to calculate the amount of watts in solar energy that their location would get. After that, we planned to display the calculated Return On Investment(ROI) and how much money they could save in electricity costs in the 20 year lifetime of their panels. After some research we realized that the project would take too long to make as we kept running into complications with the solar irradiance API. After hours of brainstorming, a few team meetings and a bunch of rejected ideas, we finally decided to make a webpage that showed all of our current mental states. And that is how we ended up creating '404'. We as a team decided that we couldn’t continue working on the original project and decided toward a light hearted interactive webpage. We plan to add ads on this website and its revenue will be donated towards climate change related organizations and groups.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Built Using
+- HTML and CSS
+- <a href="https://codepen.io/aerozed/pen/zVNbLg">Eye Animation</a>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShwaasA/404/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Made with ❤️ by Shwaas Adlakha, Ayush Gowda, Shivansh Yadav, Nick Vo!
